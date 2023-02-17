@@ -8,10 +8,10 @@
 }
 
 body{
-  min-height: 100vh;
+  
   background: url(https://images.pexels.com/photos/4831/hands-coffee-smartphone-technology.jpg) no-repeat;
   background-size: cover;
-  display: flex;
+  
   justify-content: center;
   align-items: center;
 }
